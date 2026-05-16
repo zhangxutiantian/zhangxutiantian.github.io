@@ -6,7 +6,7 @@
 > 
 > [**医保编码**](https://code.nhsa.gov.cn/toSearch.html?sysflag=1001)  国家医保信息业务编码标准数据库动态维护。
 >
-> ### 医药相关信息：
+ ### 医药相关信息：
 >
 > [**国家药监局 关于发布《中药饮片标签管理规定》的公告**](https://www.nmpa.gov.cn/xxgk/fgwj/xzhgfxwj/20230714171402126.html)  保质期的标注自2025年8月1日起施行。
 >
